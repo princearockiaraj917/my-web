@@ -1,156 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Prince</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      color: #000;
-      background-color: #fff;
-    }
-
-    .container {
-      background-color: rgba(105, 50, 25, 0.1); 
-      padding: 30px;
-      max-width: 700px;
-      margin: 0 auto;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
-
-    h1 {
-      color: chocolate;
-      text-align: center;
-    }
-
-    h2, h3 {
-      text-align: center;
-    }
-
-    hr {
-      border: 1px solid chocolate;
-    }
-
-    img.profile {
-      display: block;
-      margin: 10px auto;
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      border: 3px solid black;
-    }
-
-    img.fullwidth {
-      display: block;
-      margin: 30px auto 0;
-      width: 100%;
-      max-width: 700px;
-      border-radius: 10px;
-    }
-
-    img.centered-img {
-      display: block;
-      margin: 30px auto 0;
-      max-width: 100%;
-      border-radius: 10px;
-    }
-
-    a {
-      color: #0000ee;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    ul {
-      padding-left: 20px;
-    }
-
-    .tamil-lines {
-      font-style: italic;
-      font-size: 18px;
-      text-align: center;
-      margin-top: 40px;
-      color: #444;
-      line-height: 1.8;
-      white-space: pre-line;
-    }
-  </style>
+<head >
+    <title>RESUME</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="author" content="Prince">
 </head>
-<body>
+<body style="background-image: url(https://i.pinimg.com/736x/4a/f7/ab/4af7ab16c42f8b5bb0e1d553382c46f2.jpg);">
+    <header >
+        <center>
+        <h1>R.PRINCE AROCKIARAJ</h1>
+        <figure>
+            <img src="https://lh3.googleusercontent.com/a/ACg8ocKAyHbLIJ5wbZ-FMNG6Lv5OFGaPZ8b5X5L0Nim8-P_ax4ng5YOv=s360-c-no" alt="Prince" style="width: 150px;height: 150px;border-radius:50%;border-color: rgb(0, 0, 0);border: width 4px;border-style:solid;">
+            <figcaption>Prince</figcaption>
+        </figure>
+        <hr >
+        </center>
+    </header>
+    <main >
+        <time datetime="2025-07-01">July 1,2025</time>
+        <section>
+            <h2 style=" display: inline;">My Details</h2>
+            <article>
+                <h3 style="margin-left: 50px;">
+                    ABOUT:
+                </h3>
+                <p style="margin-left: 60px;">Second-year Computer Science Engineering student at Loyola
+                ICAM, passionate about software development and problem
+                solving. Currently focused on Python, Java, and Oracle APEX.
+                Seeking an internship opportunity to apply my skills, contribute
+                to real-world projects, and gain hands-on industry experience.
+                Deep learner, effective communicator, and a team player with a
+                growth mindset and Leadership qualities.
+                </p>
+            </article>
+            <article>
+                <h3 style="margin-left: 50px;">Education:</h3>
+                <article>
+                    <h4 style="margin-left: 60px;">Loyola icam College of Engineering and Technology(2024-28):</h4>
+                <p >
+                    <ul style="margin-left: 70px;">
+                        <li> Second year Bachelor of Engineering in Computer Science</li>
+                        <li>GPA (1st Sem): 8.14</li>
+                    </ul>
+                </p>
+                </article>
+                <h4 style="margin-left: 60px;">Adhyapana School (cbse):</h4>
+                <ul style="margin-left: 70px;">
+                    <li>years:2012-2024</li>
+                     <li>XII percentage:90.2%[451/500]</li>
 
-  <div class="container">
-    <h1>R. PRINCE AROCKIARAJ</h1>
-    <img class="profile" src="https://lh3.googleusercontent.com/a/ACg8ocKAyHbLIJ5wbZ-FMNG6Lv5OFGaPZ8b5X5L0Nim8-P_ax4ng5YOv=s360-c-no" alt="Prince's Photo" />
+                </ul>
+            </article>
+             <article><h3 style="margin-left: 60px;">SKILLS:</h3>
+            <ul style="margin-left: 70px;">
+                <li>Languages: Python, C,Java(Beginner)</li>
+                <li> Tools & Platforms: Oracle APEX, VS Code, Tinkercad</li>
+                <li>Project Management</li>
+                <li> Public Speaking</li>
+                <li>Leadership</li>
+                <li> Communication</li>
+            </ul></article>
+            <article >
+                <h3 style="margin-left: 60px;"> CERTIFICATION:</h3>
+                <ul style="margin-left: 70px;">
+                    <li>Advanced Diploma in Python Programming -(CSE) Computer Software College</li>
+                    <li>Full Stack DevelopmentWorkshop – IIT Madras</li>
+                    <li> Python Basics - HackerRank</li>
+                    <li> Prompt Engineering - SkillUp</li>
+                </ul>
+            </article>
+            <article>
+                <h3 style="margin-left: 60px;">ROLES & LEADERSHIP:</h3>
+                <ul style="margin-left: 70px;">
+                    <li> Member – STARC Rocketry Club(CANSAT Team)</li>
+                    <li>Former Member – Interact Club(2022–2023)</li>
+                </ul>
+            </article>
+            <article>
+                <h3 style="margin-left: 60px;">Projects:</h3>
+                <ul style="margin-left: 70px;">
+                    <li>Smart VVPAT Voting Machine – IR sensor-based vote tracking prototype (Hackathon project)</li>
+                    <li>Mini Calculator (Python) – Basic CLI calculator using conditional logic</li>
+                    <li>CGPA Calculator (C) – Menu-driven GPA calculator using arrays and functions</li>
+                    <li>AI RC Car (IOT)-Aims at teaching kids in a fun way</li>
+                </ul>
+            </article>
+                    
+            <details style="margin-left: 50px;">
+               
+                <summary style="font-weight:bold">Achievements</summary>
+                
+                <details>
+                    <summary style="font-weight:bold ;">Techniacal</summary>
+                    <ul>
+                    <li>VVPAT Voting Machine Project: Designed a prototype
+                     to solve real-time Indian voting discrepancies. (Team
+                     Leader)</li>
+                    <li>Build with India Hackathon (Google): Ranked in the Top
+                    5000 out of 25,000+ participants. (Team Leader)</li>
+                    <li>Unstop Code Challenge 16: Secured All India Rank 131</li>
+                    <li>Toybot Turbo Charge Event: 1st place – Minatral Club,
+                    College Tech Fest (Team Leader)</li>
+                    <li>Paper Presentation: 2nd Place – SRM Easwari College
+                    (Team Leader)</li>
+                </ul>
+                </details>
+                <details>
+                    <summary style="font-weight:bold ;">Non Technical</summary>
+                    <ul>
+                        <li> 1st Place – Elocution Battle (Republic Day Event)</li>
+                        <li>3rd Place – Public Speaking (Tamil, College Cultural)</li>
+                        <li>1st Place – Science Quiz (Science Club)</li>
+                        <li> Participated – Tamil Kavithai Competition (Korea Tamizh Sangam)</li>
 
-    <h2>1st Year, Department of Computer Science</h2>
-    <h3>Loyola ICAM College of Engineering and Technology</h3>
+                    </ul>
+                </details>
+                
 
-    <p><strong>Date of Birth:</strong> 9 Jan 2007</p>
-    <p><strong>Native:</strong> Madurai</p>
+            </details>
+           <aside>
+               <h3>எனக்கு பிடித்த வரிகள்:</h3>
+                <p lang="" style="font-weight: bold; margin-left: 50px;">
+                தேடிச் சோறுநிதந் தின்று - பல  
+                சின்னஞ் சிறுகதைகள் பேசி - மனம்  
+                வாடித் துன்பமிக உழன்று - பிறர்  
+                வாடப் பலசெயல்கள் செய்து - நரை  
+                கூடிக் கீழ்ப்படிவ மென்று - கொடுங்  
+                கூற்றுக் கிரையெனப்பின் மாயும் - பல  
+                வேடிக்கை மனிதரைப் போலே - நான்  
+                வீழ்வேனென் றுன்னு நினைத்தாயோ?
+                <br>
 
-    <p><strong>Schooling:</strong></p>
-    <ul>
-      <li><strong>LKG - UKG:</strong> SMI Kindergarten, Samayanallur</li>
-      <li><strong>Class I - XII:</strong> Adhyapana School (CBSE), Vilangudi, Madurai</li>
-    </ul>
-
-    <p><strong>Talents:</strong></p>
-    <ul>
-      <li>Tamil kavithai</li>
-      <li>Public Speaking</li>
-    </ul>
-
-    <p><strong>Profile Links:</strong></p>
-    <ul>
-      <li><a href="https://www.linkedin.com/in/prince-arockiaraj-2a9388329/" target="_blank">LinkedIn</a></li>
-      <li><a href="https://www.instagram.com/prinx_917/" target="_blank">Instagram</a></li>
-      <li><a href="https://www.instagram.com/oru.kavithai_917/" target="_blank">Kavithai Page</a></li>
-    </ul>
-
-    <p><strong>Achievements:</strong></p>
-    <ul>
-      <li><strong>a. Technical</strong></li>
-      <ul>
-        <li>1. Participated in Techathon 2k24 conducted by MADCLUB (November 13, 2024)</li>
-        <li>2. Secured 1st place in TOYBOT TURBO CHARGE conducted by Minatral Club (Feb 21, 2025)</li>
-        <li>3. Attended 2-day workshop in IIT Madras on Full Stack Development (Feb 22-23, 2025)</li>
-        <li>4. Secured 2nd position in Paper Presentation competition conducted by SRM Easwari College (March 14, 2025)</li>
-        <li>5. Secured All India Rank 131 in Unstop Weekly Code Challenge (Feb 9, 2025)</li>
-        <li>6. Participated in BUILD WITH INDIA Hackathon (Google) and ranked in top 5000/25000</li>
-        <li>7. Participated in project expo "Ignite Your Innovation" conducted by SRM College of Engineering Madurai</li>
-      </ul>
-
-      <li><strong>b. Non-Technical</strong></li>
-      <ul>
-        <li>1. Secured 3rd place in Public Speaking (Tamil - Engenia) (Oct 18, 2024)</li>
-        <li>2. Participated in Tamil Kavithai competition by Korea Tamizh Sangam (Nov 9, 2024)</li>
-        <li>3. Secured 1st place in Elocution Battle Tamil by AICUF (Jan 22, 2025)</li>
-      </ul>
-    </ul>
-
-    <h2>எனக்கு பிடித்த வரிகள்</h2>
-    <p class="tamil-lines">
-தேடிச் சோறுநிதந் தின்று - பல  
-சின்னஞ் சிறுகதைகள் பேசி - மனம்  
-வாடித் துன்பமிக உழன்று - பிறர்  
-வாடப் பலசெயல்கள் செய்து - நரை  
-கூடிக் கீழ்ப்படிவ மென்று - கொடுங்  
-கூற்றுக் கிரையெனப்பின் மாயும் - பல  
-வேடிக்கை மனிதரைப் போலே - நான்  
-வீழ்வேனென் றுன்னு நினைத்தாயோ?
 
 - முண்டாசு கவி
     </p>
+           </aside>
+            
 
-    <img class="centered-img" src="https://th.bing.com/th/id/OIP.fKBIoiqzqwLFLh9xRqxyHgAAAA?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="Background Image" />
-  </div>
 
+        </section>
+        <section>
+            <form >
+                <label for="feedback" >Feedback:</label><br>
+                <textarea   id="feedback" rows="5" cols="50" placeholder="Feedback here"></textarea>
+            </form>
+        </section>
+        
+
+    </main>
+    <footer>
+        <center>
+            <hr>
+        <nav >
+            <a href="https://www.linkedin.com/in/prince-arockiaraj-2a9388329/?lipi=urn%3Ali%3Apage%3Afeed_index_index%3Bc5fcb8df-e7b4-4410-8495-c34d3fb9aa38">linkedin</a>
+            <a href="mailto:princearockiaraj917@gmail.com">Mail📧</a>
+            <h4 style= display:inline;>📞Phone:7708601680</h4>
+            
+        </nav>
+
+        </center>
+    </footer>
 </body>
 </html>
+
